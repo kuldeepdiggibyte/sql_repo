@@ -1,4 +1,3 @@
-# sql_repo
 
 <h2>In assignment 1, currently updated till 4 sub questions</h2>
 <p><strong>step 1</strong>:created a database with e-commerce </p>
