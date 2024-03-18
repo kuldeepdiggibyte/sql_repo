@@ -6,6 +6,7 @@ CREATE TABLE dept_tbl (
     salary INT
 );
 
+
 '''Inserting values into table'''
 
 INSERT INTO dept_tbl (id_deptname, emp_name, salary) VALUES 
