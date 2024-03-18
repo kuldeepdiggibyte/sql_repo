@@ -1,10 +1,10 @@
 
-Absolutely! Here's how you can update your README file with the breakdown of tasks:
+
 
 ```markdown
-# Ecommerce Database Management System
 
-This project aims to create and manage a database system for an ecommerce company. Below are the tasks involved and their respective subpoints:
+
+This project aims to create and manage a database system for an ecommerce company. 
 
 1. **Create Database as ecommerce:**
    - Use SQL command `CREATE DATABASE ecommerce;` to create the database.
